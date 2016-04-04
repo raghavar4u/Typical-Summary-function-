@@ -1,2 +1,0 @@
-# Typical-Summary-function-
-Summary function with typical pattren for matrix data and NA value omission 
